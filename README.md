@@ -8,6 +8,8 @@ midi utility plugin
 - Keep state of various params to make more advanced decisions about what messages to send
 - it's not necessarily about the outgoing messages, it's what the captain configures itself as
   - how would that work in the captain
+  - too slow to update files on the fly + reload
+  - can the config be reloaded on the fly w/o unmounting or restarting app
  
 It could be done in super mode but only in one direction. this allows up/down cc values without statically configuring it in the captain
 
