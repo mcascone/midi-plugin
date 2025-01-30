@@ -68,3 +68,10 @@ Example: if I change a state using a long press, I want that state to be reflect
 - can the config be reloaded on the fly w/o unmounting or restarting app?
 
 Probably need access to the source code for the MIDI Captain Ideas. -->
+
+
+## Other Tools
+
+This might be implementable in another form using https://github.com/gbevin/ReceiveMIDI and https://github.com/gbevin/SendMIDI.
+
+These CLI apps allow scripted MIDI messaging and state management.
